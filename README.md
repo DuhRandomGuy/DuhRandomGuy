@@ -1,5 +1,5 @@
 # 💫 Hi i'm Aymen
-Science, tech and video-game enthusiast<br>Currently studying Computer Science in University of Quebec in Trois-Rivières<br><br>Experience with Software Engineering, Web Development, Databases and Data Analysis<br>Learning Cybersecurity on the side<br>How to reach me : benyahir@hotmail.ca
+Science, tech and video-game enthusiast<br>Currently studying [Computer Science](https://oraprdnt.uqtr.uquebec.ca/portail/triw082.afficher?owa_cd_pgm=7833) in [University of Quebec in Trois-Rivières](https://www.uqtr.ca/index.shtml)<br>Experience with Software Engineering, Web Development, Databases and Data Analysis<br>Learning Cybersecurity on the side<br>How to reach me : benyahir@hotmail.ca
 
 
 # 💻 Tech Stack:
@@ -14,8 +14,3 @@ Science, tech and video-game enthusiast<br>Currently studying Computer Science i
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=DaRandomGuy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
